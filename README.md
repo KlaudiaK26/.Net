@@ -23,3 +23,7 @@ This is a simple console-based calculator built with C#. It supports basic arith
 
 ## Folder Structure
 
+## Author
+
+- Klaudia Kushi
+
