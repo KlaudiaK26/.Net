@@ -1,0 +1,11 @@
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\bin\Debug\net9.0\LibraryManag.deps.json
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\bin\Debug\net9.0\LibraryManag.dll
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\bin\Debug\net9.0\LibraryManag.pdb
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\obj\Debug\net9.0\LibraryManag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\obj\Debug\net9.0\LibraryManag.AssemblyInfoInputs.cache
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\obj\Debug\net9.0\LibraryManag.AssemblyInfo.cs
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\obj\Debug\net9.0\LibraryManag.csproj.CoreCompileInputs.cache
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\obj\Debug\net9.0\LibraryManag.dll
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\obj\Debug\net9.0\refint\LibraryManag.dll
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\obj\Debug\net9.0\LibraryManag.pdb
+C:\Users\Klaudia\source\repos\LibraryManagSystem\LibraryManag\obj\Debug\net9.0\ref\LibraryManag.dll
